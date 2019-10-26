@@ -1,0 +1,79 @@
+[OutputJobFile]
+Version=1.0
+Caption=
+Description=
+VaultGUID=
+ItemGUID=
+ItemHRID=
+RevisionGUID=
+RevisionId=
+VaultHRID=
+AutoItemHRID=
+NextRevId=
+FolderGUID=
+LifeCycleDefinitionGUID=
+RevisionNamingSchemeGUID=
+
+[OutputGroup1]
+Name=Job Group
+Description=
+TargetOutputMedium=Print Job
+VariantName=[No Variations]
+VariantScope=1
+CurrentConfigurationName=
+TargetPrinter=OneNote
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputMedium1=Checks
+OutputMedium1_Type=Publish
+OutputType1=Design Rules Check
+OutputName1=Design Rules Check
+OutputCategory1=Validation
+OutputDocumentPath1=
+OutputVariantName1=
+OutputEnabled1=0
+OutputEnabled1_OutputMedium1=1
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+OutputType2=Electrical Rules Check
+OutputName2=Electrical Rules Check
+OutputCategory2=Validation
+OutputDocumentPath2=
+OutputVariantName2=
+OutputEnabled2=0
+OutputEnabled2_OutputMedium1=2
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+
+[PublishSettings]
+OutputFilePath1=D:\Data\GIT\AD\projects\template\Project Outputs for template\.PDF
+ReleaseManaged1=1
+OutputBasePath1=Project Outputs for template
+OutputPathMedia1=
+OutputPathMediaValue1=
+OutputPathOutputer1=[Output Type]
+OutputPathOutputerPrefix1=
+OutputPathOutputerValue1=
+OutputFileName1=Checks.PDF
+OutputFileNameMulti1=
+UseOutputNameForMulti1=1
+OutputFileNameSpecial1=
+OpenOutput1=1
+PromptOverwrite1=1
+PublishMethod1=0
+ZoomLevel1=50
+FitSCHPrintSizeToDoc1=1
+FitPCBPrintSizeToDoc1=1
+GenerateNetsInfo1=1
+MarkPins1=1
+MarkNetLabels1=1
+MarkPortsId1=1
+GenerateTOC1=1
+ShowComponentParameters1=1
+GlobalBookmarks1=0
+PDFACompliance1=Disabled
+PDFVersion1=Default
+
+[GeneratedFilesSettings]
+RelativeOutputPath1=D:\Data\GIT\AD\projects\template\Project Outputs for template\.PDF
+OpenOutputs1=1
+
